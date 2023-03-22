@@ -4,6 +4,8 @@ In March 2020, the world as we knew it changed forever. This change affected the
 
 # Project Details
 ### Professor: C. Raju
+### Indian Institute of Management, Kozhikode
+
 
 ### Project by
 
@@ -20,6 +22,8 @@ In March 2020, the world as we knew it changed forever. This change affected the
 |  VENUGOPAL ALUGOJU   | EPGP-15D-100 |
 |  WAYNE JOSEPH UNGER   | EPGP-15D-104 |
 
+# Future extension
+This project can be easily extended for further analysis with multiple combinations of variables.
 
 
 
